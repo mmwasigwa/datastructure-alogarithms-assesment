@@ -24,7 +24,7 @@ This function counts the frequency of words in a sentence, ignoring punctuation 
 
 1. Clone the repository:
 ```
-$ git clone  
+$ git clone git@github.com:Mwasigwa2/datastructure-alogarithms-assesment.git
 ```
 ## LICENSE
 MIT License
